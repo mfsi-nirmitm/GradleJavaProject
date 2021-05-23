@@ -1,0 +1,2 @@
+com/scaler/lib2/SimpleClass.java
+ com.scaler.lib2.SimpleClass
