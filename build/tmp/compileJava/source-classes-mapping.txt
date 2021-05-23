@@ -1,0 +1,2 @@
+com/scaler/gradleproject/Main.java
+ com.scaler.gradleproject.Main
